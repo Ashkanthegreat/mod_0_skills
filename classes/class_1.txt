@@ -1,0 +1,13 @@
+Salt shaker
+
+Attributes:
+amountFull (integer)
+capacity (integer)
+color (string)
+size (integer)
+
+Methods:
+pourInSalt (increases the amountfull attribute)
+pourOutSalt (decreases the amountFull attribute)
+paint (changes the color attribute)
+useSaltShaker (changes the amountFull attribute)
