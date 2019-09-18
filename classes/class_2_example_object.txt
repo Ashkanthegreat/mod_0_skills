@@ -1,0 +1,15 @@
+Stemmed Wine Glass
+
+Attributes:
+
+amountFull: 3.5
+capacity: 5.0
+hasStem: True
+clearColor: True
+
+Methods:
+
+pourWineIn: 4.5
+drinkWine: 3.0
+breakStemOff: True
+glueStemOn: False
