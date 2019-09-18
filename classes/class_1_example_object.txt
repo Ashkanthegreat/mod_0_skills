@@ -1,0 +1,15 @@
+Object: Glass salt shaker
+
+Attributes:
+
+amountFull: 1
+capacity: 2
+color: clear
+size: 3
+
+Methods:
+
+pourInSalt: 2
+pourOutSalt: 1
+paint: black
+useSaltShaker: 0
