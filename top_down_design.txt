@@ -38,3 +38,6 @@ How to become a Turing student
     4.2.2 Complete all sessions homework and tasks
     4.2.3 Complete the Mod 0 assessment
     4.2.4 Complete the Back End Capstone project and submit
+5. Go to first day of class
+ 5.1 Get to Turing by 8am on first day of Mod 1
+ 
