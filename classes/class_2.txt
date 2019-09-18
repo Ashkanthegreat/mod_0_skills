@@ -1,0 +1,15 @@
+Wine Glass
+
+Attributes:
+
+amountFull (float)
+capacity (float)
+hasStem (boolean)
+clearColor (boolean)
+
+Methods:
+
+pourWineIn (increases the amountFull attribute)
+drinkWine (decreases the amountFull attribute)
+breakStemOff (changes the hasStem attribute)
+glueStemOn (changes the hasStem attribute)
