@@ -1,6 +1,14 @@
 How to become a Turing student
 
 1. Complete online application
+  1.1 Open online application
+  1.2 Complete the personal info section of application
+    1.2.1 Upload resume
+  1.3 Complete online logic exam
+    1.3.1 Pass online logic exam
+  1.4 Wait for email from Turing to set up a in person interview
+    1.4.1 Open in person interview email confirmation
+    1.4.2 Set up time for in person interview
 2. Complete in person interview and get accepted
 3. Apply for GI Bill and financial aid
 4. Complete Mod 0
