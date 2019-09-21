@@ -11,5 +11,5 @@ Methods:
 
 pourWineIn: 4.5
 drinkWine: 3.0
-breakStemOff: True
-glueStemOn: False
+breakStemOff: False
+glueStemOn: True
