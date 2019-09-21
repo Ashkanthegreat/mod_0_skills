@@ -10,6 +10,6 @@ clearColor: True
 Methods:
 
 pourWineIn: 4.5
-drinkWine: 3.0
+drinkWine: 3.5
 breakStemOff: False
 glueStemOn: True
